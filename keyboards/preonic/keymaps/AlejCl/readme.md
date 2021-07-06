@@ -1,1 +1,1 @@
-# The default Preonic layout - largely based on the Planck's
+# Adaptation of eli-rodriguezperez's keymap for preonic/rev3
